@@ -52,3 +52,7 @@ dot -Tsvg:cairo test_svg.dot > test_svg-cairo.svg
 <img src="test_svg-cairo.svg" width="200">
 
 Important: this embeds the images instead of leaving refs to other files.
+
+## Linux ubuntu 18.04
+
+Works exactly like os x. error messages and output, though I think it might be converting import svg to png.
